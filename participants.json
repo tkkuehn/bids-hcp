@@ -3,7 +3,7 @@
     "Description": "Participant identifier"
   },
   "filename": {
-    "Description": "the corresponding name of the file from the OASIS dataset"
+    "Description": "the corresponding name of the file from the HCP dataset"
   },
   "sex": {
     "Description": "self-rated by participant, m for male/ f for female"
