@@ -1,1 +1,2 @@
+2abec9da-2c5d-487d-bb2c-f7c86bf8f8a4 autoenable=true encryption=none externaltype=datalad name=datalad type=external timestamp=1673466594.632322684s
 bdbb7aed-f717-451e-a776-81a286f4fa32 autoenable=true bucket=openneuro.org datacenter=US encryption=none exporttree=yes fileprefix=ds004253/ host=s3.amazonaws.com name=s3-PUBLIC partsize=1GiB port=80 public=yes publicurl=https://s3.amazonaws.com/openneuro.org storageclass=STANDARD type=S3 versioning=yes timestamp=1670516670.544221782s
