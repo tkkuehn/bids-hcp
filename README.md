@@ -1,8 +1,16 @@
-We release anatomical fiducial (AFID) data on a subset (n=30) of the humman connectome project. 
+# HCP Unrelated 100 BIDS Subset (BIDS-HCP)
 
-This subset consists of 30 unrelated healthy subjects (age: 21-52; 15 female and 15 male) chosen from the Human Connectome Project dataset (HCP). All scans were T1-weighted MR volumes with 1 mm voxels acquired on a 3-T scanner. 
+This dataset contains imaging data from a subset (n=30) of the Human Connectome Project, reorganized into BIDS.
 
-Two independent raters annotated all the 30 subjects for a total of three AFIDs protocol applications (2,880 fiducials) via 3DSlicer 4.10.0.
+This subset consists of 30 unrelated healthy subjects (age: 21-52; 15 female and 15 male) chosen from the Human Connectome Project dataset (HCP). All scans were T1-weighted MR volumes with 1 mm voxels acquired on a 3-T scanner.
+
+This dataset is intended for use with the "Ground truth AFIDs-HCP" dataset, available at (DOI here), both released as part of the AFIDs-Data project (DOI here).
+
+## Data Use Agreement
+
+These images are released under the [WU-Minn HCP Consortium Open Access Data Use Terms](./DATA_USE_AGREEMENT.md).
+
+## Access
 
 The DataLad image links are adapted from the existing Human Connectome Project Open Access DataLad dataset (https://github.com/datalad-datasets/human-connectome-project-openaccess). The following data access and retrieval instructions are taken from that dataset's readme.
 

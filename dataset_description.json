@@ -29,7 +29,7 @@
         "Jonathan C. Lau"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004253.v1.0.8",
-    "License": "CC0",
+    "License": "WU-Minn HCP Consortium Open Access Data Use Terms (See ./DATA_USE_AGREEMENT.md)",
     "Acknowledgements": "Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.",
-    "HowToAcknowledge": "If using AFIDs data, please cite: \nTaha, A. et al. Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration. bioRxiv 2022.11.21.516173 (2022) doi:10.1101/2022.11.21.516173"
+    "HowToAcknowledge": "Include language similar to the following:\n\nData collection and sharing for this project was provided by the Human Connectome Project (HCP; Principal Investigators: Bruce Rosen, M.D., Ph.D., Arthur W. Toga, Ph.D., Van J. Weeden, MD). HCP funding was provided by the National Institute of Dental and Craniofacial Research (NIDCR), the National Institute of Mental Health (NIMH), and the National Institute of Neurological Disorders and Stroke (NINDS). HCP data are disseminated by the Laboratory of Neuro Imaging at the University of Southern California."
 }
